@@ -1,0 +1,10 @@
+void loop() {
+    if (digitalRead(button) == HIGH){
+        delay(15); // software debounce
+        if (digitalRead(button) == HIGH) {
+            // if the switch is HIGH, ie. pushed down - change the lights!
+            changeLights();
+            delay(15000); // wait for 15 seconds
+        }
+    }
+}
