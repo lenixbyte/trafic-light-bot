@@ -1,2 +1,3 @@
 # trafic-light-bot
-arduino based project
+Arduino based project
+Creates a suitable environment for public.
