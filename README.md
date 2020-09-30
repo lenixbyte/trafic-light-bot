@@ -1,2 +1,2 @@
 # trafic-light-bot
-arduino based project
+arduino based project on trafic lights
