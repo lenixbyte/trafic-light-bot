@@ -7,3 +7,4 @@ Arduino based project on trafic lights.
 Prevent the accident.
 Simulate a traffic light using an Arduino and LEDs!
 This project is super cool to make!
+This simple little project uses an Arduino and some LEDs to replicate a traffic light. It uses code as an internal timer and continues to run until you cut the Arduino's power supply.
