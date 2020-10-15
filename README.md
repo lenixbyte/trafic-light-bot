@@ -15,3 +15,4 @@ The materials are here as follows
 3. Jumper Wires
 4. Red, Yellow, and Green Light Emitting Diode lights
 5. Arduino USB 2.0 cable.
+6. Storage device
