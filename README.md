@@ -13,5 +13,5 @@ The materials are here as follows
 1. Arduino/Genuino/Geekcreit/Whatever Uno
 2. Breadboard
 3. Jumper Wires
-4. Red, Yellow, and Green Light Emitting Diode lights
+4. Red, Yellow, and Green LED lights
 5. Arduino USB 2.0 cable.
